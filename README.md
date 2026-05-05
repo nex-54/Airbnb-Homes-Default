@@ -2,6 +2,8 @@
 
 A Chrome extension that automatically redirects Airbnb to the Homes tab instead of showing Experiences or Services.
 
+![Preview](screenshots/preview.jpg)
+
 ## How it works
 
 - Redirects `/`, `/experiences`, and `/services` to `/homes` before the page loads
